@@ -10941,7 +10941,8 @@ section {
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black]::after {
   content: "";
-  background-image: url("../assets/img/portrait_black.png");
+  background-image: url("https://res.cloudinary.com/trendbrains/image/upload/v1624204805/trendbrains_assets/portrait_black.png");
+  /* background-image: url("../assets/img/portrait_black.png");*/
 }
 
 .device[data-device=iPhoneX][data-orientation=portrait][data-color=black] .button {

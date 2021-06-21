@@ -10955,7 +10955,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://res.cloudinary.com/trendbrains/image/upload/v1624263638/trendbrains_assets/background.webp");
+  background-image: url("../assets/img/background.webp");
   background-position: center;
   background-size: cover;
 }
